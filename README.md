@@ -1,4 +1,4 @@
-# BAO Image Trainer
+# Cuong Image Trainer
 
 Trang web luyện nhận diện ảnh với đáp án tự import và đồng hồ đếm ngược.
 
